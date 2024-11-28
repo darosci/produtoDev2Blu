@@ -1,4 +1,4 @@
-package produtoDev2Blu.factory;
+package factory;
 
 import model.Produto;
 
